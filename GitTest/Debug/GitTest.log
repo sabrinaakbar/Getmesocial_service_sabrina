@@ -1,2 +1,3 @@
 ﻿  main.cpp
+c:\users\sabri\desktop\back_end\c++_code_git_example\gittest\gittest\main.cpp(7): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
   GitTest.vcxproj -> C:\Users\sabri\Desktop\Back_End\C++_code_git_example\GitTest\Debug\GitTest.exe
